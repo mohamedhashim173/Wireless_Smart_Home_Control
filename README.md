@@ -1,4 +1,4 @@
-# Wireless Smart Home Control
+# Wireless Smart Home Control (HC-05)
 
 
 
@@ -9,6 +9,7 @@ https://youtu.be/XoM8vQMEMA8
 
 ## Specifications
 * Login authentication.
+* Wireless communication (Bluetooth HC-05).
 * Lights control.
 * Fan (DC Motor).
 * Door lock (Servo Motor).
